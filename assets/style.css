@@ -50,7 +50,7 @@ h2 {
 .header-container {
     position: absolute;
     border-bottom: 2px solid #cccccc;
-    background-color: #ffffff;
+    background-color: #c51010;
     height: 60px;
     width: 100%;
 }
@@ -101,5 +101,11 @@ footer {
     border-top: 5px solid #4aaaa5;
     height: 50px;
     padding: 10px;
+
+}
+.logo {
+    background-color: #4aaaa5;
+    color: #fff;
+
 
 }
